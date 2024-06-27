@@ -1,5 +1,9 @@
 @media (max-width:769px) {
    
+    body{
+        overflow-y: scroll;
+    }
+
     main .personagem .imagem {
         height: 85%;
     }
